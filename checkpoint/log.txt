@@ -1,0 +1,24 @@
+Options: Namespace(dataset='hmdb', learning_rate=5e-05, tasks_per_batch=16, checkpoint_dir='checkpoint', test_model_path=None, resume_from_checkpoint=True, way=5, shot=1, query_per_class=5, query_per_class_test=1, test_iters=[5000000, 800000], num_test_tasks=1, print_freq=10, seq_len=8, num_workers=10, opt='adam', trans_dropout=0.1, save_freq=1000, img_size=224, scratch='bp', num_gpus=4, debug_loader=False, split=3, sch=[1000000], traintestlist='/media/psdz/新加卷/zjm/trx-main/splits/hmdb_ARN', path='/media/psdz/新加卷/zjm/hmdb51_frames')
+
+Checkpoint Directory: checkpoint
+
+Options: Namespace(dataset='hmdb', learning_rate=5e-05, tasks_per_batch=16, checkpoint_dir='checkpoint', test_model_path=None, resume_from_checkpoint=False, way=5, shot=1, query_per_class=5, query_per_class_test=1, test_iters=[5000000, 800000], num_test_tasks=1, print_freq=10, seq_len=8, num_workers=10, opt='adam', trans_dropout=0.1, save_freq=1000, img_size=224, scratch='bp', num_gpus=4, debug_loader=False, split=3, sch=[1000000], traintestlist='/media/psdz/新加卷/zjm/trx-main/splits/hmdb_ARN', path='/media/psdz/新加卷/zjm/hmdb51_frames')
+
+Checkpoint Directory: checkpoint
+
+Options: Namespace(dataset='hmdb', learning_rate=5e-05, tasks_per_batch=16, checkpoint_dir='checkpoint', test_model_path=None, resume_from_checkpoint=False, way=5, shot=1, query_per_class=5, query_per_class_test=1, test_iters=[5000000, 800000], num_test_tasks=1, print_freq=10, seq_len=8, num_workers=10, opt='adam', trans_dropout=0.1, save_freq=1000, img_size=224, scratch='bp', num_gpus=4, debug_loader=False, split=3, sch=[1000000], traintestlist='/media/psdz/新加卷/zjm/trx-main/splits/hmdb_ARN', path='/media/psdz/新加卷/zjm/hmdb51_frames')
+
+Checkpoint Directory: checkpoint
+
+Options: Namespace(dataset='hmdb', learning_rate=5e-05, tasks_per_batch=16, checkpoint_dir='checkpoint', test_model_path=None, resume_from_checkpoint=False, way=5, shot=1, query_per_class=5, query_per_class_test=1, test_iters=[5000000, 800000], num_test_tasks=1, print_freq=10, seq_len=8, num_workers=10, opt='adam', trans_dropout=0.1, save_freq=1000, img_size=224, scratch='bp', num_gpus=4, debug_loader=False, split=3, sch=[1000000], traintestlist='/media/psdz/新加卷/zjm/trx-main/splits/hmdb_ARN', path='/media/psdz/新加卷/zjm/hmdb51_frames')
+
+Checkpoint Directory: checkpoint
+
+Options: Namespace(dataset='hmdb', learning_rate=5e-05, tasks_per_batch=16, checkpoint_dir='checkpoint', test_model_path=None, resume_from_checkpoint=False, way=5, shot=1, query_per_class=5, query_per_class_test=1, test_iters=[5000000, 800000], num_test_tasks=1, print_freq=10, seq_len=8, num_workers=10, opt='adam', trans_dropout=0.1, save_freq=1000, img_size=224, scratch='bp', num_gpus=4, debug_loader=False, split=3, sch=[1000000], traintestlist='/media/psdz/新加卷/zjm/TgGTM/splits/hmdb_ARN', path='/media/psdz/新加卷/zjm/hmdb51_frames')
+
+Checkpoint Directory: checkpoint
+
+Options: Namespace(dataset='hmdb', learning_rate=5e-05, tasks_per_batch=16, checkpoint_dir='checkpoint', test_model_path=None, resume_from_checkpoint=False, way=5, shot=1, query_per_class=5, query_per_class_test=1, test_iters=[5000000, 800000], num_test_tasks=1, print_freq=10, seq_len=8, num_workers=10, opt='adam', trans_dropout=0.1, save_freq=1000, img_size=224, scratch='bp', num_gpus=4, debug_loader=False, split=3, sch=[1000000], traintestlist='/media/psdz/新加卷/zjm/TgGTM/splits/hmdb_ARN', path='/media/psdz/新加卷/zjm/hmdb51_frames')
+
+Checkpoint Directory: checkpoint
+
