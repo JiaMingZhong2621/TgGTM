@@ -23,4 +23,4 @@ First, download the datasets from their original source. (If you have already do
 # Running
 Before running, some settings need to be configured in the config file.
 1. open utils/config.py
-2. Set cfg.default="/media/psdz/新加卷/zjm/TgGTM/configs/projects/CLIPFSAR/ssv2_small/CLIPFSAR_SSv2_Small_1shot_v1.yaml" to point the config files.
+2. Set `<cfg.default="/media/psdz/新加卷/zjm/TgGTM/configs/projects/CLIPFSAR/ssv2_small/CLIPFSAR_SSv2_Small_1shot_v1.yaml">` to point the config files.
