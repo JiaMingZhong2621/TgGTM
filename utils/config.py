@@ -50,7 +50,7 @@ class Config(object):
             "--cfg",
             dest="cfg_file",
             help="Path to the configuration file",
-            default="/media/psdz/新加卷/zjm/trx-main/configs/projects/CLIPFSAR/ssv2_small/CLIPFSAR_SSv2_Small_1shot_v1.yaml"
+            default="/media/psdz/新加卷/zjm/TgGTM/configs/projects/CLIPFSAR/ssv2_small/CLIPFSAR_SSv2_Small_1shot_v1.yaml"
         )
         parser.add_argument(
             "--init_method",
