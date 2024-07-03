@@ -27,5 +27,6 @@ Before running, some settings need to be configured in the config file.
 2. Set `<cfg.default="/media/psdz/新加卷/zjm/TgGTM/configs/projects/CLIPFSAR/ssv2_small/CLIPFSAR_SSv2_Small_1shot_v1.yaml">` to specify the configuration files used by the datasets.
 3. you can then do:
    `python run_fsar.py`
+   
 Please ensure that the datasets used in `utils/config.py` are consistent with those used in `run_fsar.py`.
-If you need to modify the learning rate, please do so in `run_fsar.py`. To change the number of iterations, modify the configurations in `configs`.
+If you need to modify the learning rate, please do so in `run_fsar.py`. To change the number of iterations, modify the configurations in [configs](https://github.com/JiaMingZhong2621/TgGTM/tree/main/configs/projects/CLIPFSAR).
