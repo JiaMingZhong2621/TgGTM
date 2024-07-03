@@ -22,4 +22,5 @@ First, download the datasets from their original source. (If you have already do
 * [UCF101](https://www.crcv.ucf.edu/data/UCF101.php)
 # Running
 Before running, some settings need to be configured in the config file.
-1.configs/projects/TgGTM/kinetics100/CLIPFSAR_K100_1shot_v1.yaml
+1. open utils/config.py
+2. Set cfg.default="/media/psdz/新加卷/zjm/TgGTM/configs/projects/CLIPFSAR/ssv2_small/CLIPFSAR_SSv2_Small_1shot_v1.yaml" to point the config files.
